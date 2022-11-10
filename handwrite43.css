@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "handwrite43";
+    url("handwrite43.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    url("handwrite43.svg#handwrite43") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
